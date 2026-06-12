@@ -4,6 +4,12 @@
         <members>Opportunity.AmountCopy__c</members>
         <name>CustomField</name>
     </types>
+
+
+        <types>
+        <members>Opportunity.CustomFxxxx__c</members>
+        <name>CustomField</name>
+    </types>
        <types>
         <members>OppAmountCopy</members>
         <name>Flow</name>
