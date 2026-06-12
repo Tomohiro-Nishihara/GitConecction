@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Opportunity.AmountCopy__c</members>
+        <name>CustomField</name>
+    </types>
+       <types>
+        <members>OppAmountCopy</members>
+        <name>Flow</name>
+    </types>
+
+
+    <version>66.0</version>
+</Package>
